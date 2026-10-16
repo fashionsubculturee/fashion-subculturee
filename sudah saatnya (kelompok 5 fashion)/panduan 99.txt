@@ -1,0 +1,22 @@
+SUB-CULTURE/
+│
+├── index.html
+│
+└── images/
+    ├── hero-fashion.jpg
+    ├── social-fashion.jpg
+    ├── street-community.jpg
+    ├── style-skena.jpg
+    ├── style-starboy.jpg
+    ├── style-casual.jpg
+    ├── style-y2k.jpg
+    ├── style-gorpcore.jpg
+    ├── style-formal.jpg
+    ├── style-poppunk.jpg
+    ├── style-hardcore.jpg
+    ├── style-metal.jpg
+    ├── style-grunge.jpg
+    ├── style-hiphop.jpg
+    ├── detail-1.jpg
+    ├── detail-2.jpg
+    └── detail-3.jpg
